@@ -1,4 +1,4 @@
-** Lung-Cancer-Prediction**
+**Lung-Cancer-Prediction**
 This project leverages machine learning to predict the likelihood of lung cancer based on demographic, lifestyle, and medical risk factors. Early detection is critical for effective treatment, and this project demonstrates how ML can aid in risk assessment and proactive healthcare decision-making.
 
 **Dataset**

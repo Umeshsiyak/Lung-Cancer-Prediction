@@ -22,7 +22,7 @@ Decision Tree Classifier
 The Decision Tree Classifier achieved the highest accuracy, showing strong performance in capturing patterns in the dataset.
 
 
-**Key Highlights
+**Key Highlights**
 Easy-to-use Python scripts for lung cancer prediction
 Helps identify high-risk individuals for early medical attention
 Demonstrates practical ML workflow: preprocessing → training → evaluation → visualization
